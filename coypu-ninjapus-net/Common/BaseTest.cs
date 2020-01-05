@@ -1,6 +1,5 @@
 using System;
 using Coypu;
-using Coypu.Drivers;
 using Coypu.Drivers.Selenium;
 using NUnit.Framework;
 
