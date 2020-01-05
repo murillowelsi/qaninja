@@ -1,2 +1,2 @@
 # qaninja
-Repositório criado para guardar projetos executados nos cursos da QA Ninja
+Repositório de projetos criados nos cursos da QA Ninja
